@@ -11,7 +11,7 @@ body {
   min-height: 100vh;
 }
 .calculator {
-  background-color: #470b32;
+  background-color: #442564;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -37,7 +37,7 @@ body {
   width: 300px;
 }
 button {
-  background-color: #626467;
+  background-color: #581587;
   border:none;
   border-radius: 40px;
   color: #f1faee;
