@@ -22,20 +22,6 @@ function calculate(button) {
   }
 }
 
-// function appendNumber(number) {
-//   if (number === "." && currentOperand.includes(".")) {
-//     return (currentOperand = currentOperand.toString() + number.toString());
-//   }
-// }
-
-// function updateScreen() {
-//   screen.innerText;
-// }
-
-// function clear() {
-//   screen = "";
-// }
-
 buttons.forEach((button) => {
   button.addEventListener("click", () => {
     calculate(button);

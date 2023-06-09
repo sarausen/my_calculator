@@ -37,7 +37,7 @@ body {
   width: 300px;
 }
 button {
-  background-color: #5c677d;
+  background-color: #626467;
   border:none;
   border-radius: 40px;
   color: #f1faee;
@@ -63,5 +63,5 @@ button:hover {
 .add,
 .multiply,
 .equals {
-  background-color: #e85d04;
+  background-color: #63bc2f;
 }
