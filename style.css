@@ -17,8 +17,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 20px 30px;
-  width: 400px;
+  padding: 30px 30px;
+  width: 440px;
 }
 .screen-output {
   background-color: #fff;
